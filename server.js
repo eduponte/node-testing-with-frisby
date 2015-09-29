@@ -1,4 +1,3 @@
-var favicon = require('serve-favicon');
 var api = require('./routes/api');
 var express = require('express');
 
