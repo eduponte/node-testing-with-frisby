@@ -1,0 +1,14 @@
+{
+  "name": "NodeTestingWithFrisby",
+  "version": "0.0.0",
+  "dependencies": {
+    "express": "*",
+    "request": "*",
+    "express-bearer-token": "*",
+    "jasmine-node" : "*",
+    "frisby" : "*"
+  },
+  "scripts" : {
+    "test": "jasmine-node spec --junitreport"
+  }
+}
