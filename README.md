@@ -1,6 +1,6 @@
 # node-testing-with-frisby
 
-This repo demonstrates some [frisby.js](http://frisbyjs.com/) usage to test a REST api on a node.js server.
+This repo demonstrates some [frisby.js](http://frisbyjs.com/) usage to test a REST api on a node.js (with express.js) server.
 
 Among them, there are some examples of frisby matchers, request chaining and unauthorized access.
 
